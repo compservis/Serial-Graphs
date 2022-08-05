@@ -8,6 +8,6 @@ Prerequisites: Python 3, PySimpleGUI, pyserial, matplotlib
 
 !["1"](images/1.JPG)
 
-!["2"](images/2.JPG)
+!["2"](images/2.png)
 
-!["3"](images/3.JPG)
+!["3"](images/3.png)
