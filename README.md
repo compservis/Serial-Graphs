@@ -11,3 +11,6 @@ Prerequisites: Python 3, PySimpleGUI, pyserial, matplotlib
 !["2"](images/2.png)
 
 !["3"](images/3.png)
+
+Video:
+https://youtu.be/32xh4bUmghs
